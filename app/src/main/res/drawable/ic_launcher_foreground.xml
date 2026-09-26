@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple blue barbell, centered inside the adaptive-icon safe area. -->
+    <path android:fillColor="#3B82F6" android:pathData="M24,51 L84,51 L84,57 L24,57 Z" />
+    <path android:fillColor="#3B82F6" android:pathData="M18,38 L26,38 L26,70 L18,70 Q15,70 15,67 L15,41 Q15,38 18,38 Z" />
+    <path android:fillColor="#3B82F6" android:pathData="M29,44 L35,44 L35,64 L29,64 Z" />
+    <path android:fillColor="#3B82F6" android:pathData="M82,38 L90,38 Q93,38 93,41 L93,67 Q93,70 90,70 L82,70 Z" />
+    <path android:fillColor="#3B82F6" android:pathData="M73,44 L79,44 L79,64 L73,64 Z" />
+</vector>
